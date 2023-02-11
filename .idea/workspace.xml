@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70b2a41d-5bef-4d3b-841c-312314c2b1f7" name="Changes" comment="message">
+      <change beforePath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsConnectLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsConnectLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/service/impl/ConfigServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/service/impl/ConfigServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsConnectLoader.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/factory/SmsFactory.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Javasoftware/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Windows\Desktop\Javasoftware\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="1y53QI1r5CionwCbcmPm3u1gMMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Windows/Desktop/后端初始项目/ydl-sms-backend/ydl-sms-sdk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "98095204c117312ac78fa2e2eeeea7ab",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-server" />
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-sdk" />
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-entity" />
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-api" />
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-manage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Windows\Desktop\后端初始项目\ydl-sms-backend" />
+      <recent name="D:\course\动力短信平台\资料夹\资料\后端初始项目\ydl-sms-backend\ydl-sms-entity\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ydl.sms.sms" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="spring-boot:run" />
+      <command value="mvn deploy" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SmsApiApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsManageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ydl.sms.SmsManageApplication" />
+      <module name="ydl-sms-manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydl.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ydl-sms-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ydl-sms-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisListTest.testPop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ydl-sms-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ydl.test.RedisListTest" />
+      <option name="METHOD_NAME" value="testPop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisListTest.testPopBlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ydl-sms-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ydl.test.RedisListTest" />
+      <option name="METHOD_NAME" value="testPopBlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisListTest.testPush" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ydl-sms-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydl.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ydl.test.RedisListTest" />
+      <option name="METHOD_NAME" value="testPush" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="ydl-sms-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ydl.sms.SmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ydl-sms-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ydl.sms.SmsManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ydl-sms-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ydl.sms.SmsServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SmsManageApplication" />
+      <item itemvalue="JUnit.RedisListTest.testPush" />
+      <item itemvalue="JUnit.RedisListTest.testPop" />
+      <item itemvalue="JUnit.RedisListTest.testPopBlock" />
+      <item itemvalue="JUnit.All in ydl-sms-api" />
+      <item itemvalue="Spring Boot.SmsManageApplication" />
+      <item itemvalue="Spring Boot.SmsApiApplication" />
+      <item itemvalue="Spring Boot.SmsServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ydl-sms-api" />
+        <item itemvalue="JUnit.RedisListTest.testPopBlock" />
+        <item itemvalue="JUnit.RedisListTest.testPop" />
+        <item itemvalue="JUnit.RedisListTest.testPush" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70b2a41d-5bef-4d3b-841c-312314c2b1f7" name="Changes" comment="" />
+      <created>1631527605912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631527605912</updated>
+      <workItem from="1631527607341" duration="643000" />
+      <workItem from="1631529088532" duration="329000" />
+      <workItem from="1631529514891" duration="6939000" />
+      <workItem from="1631756075024" duration="4597000" />
+      <workItem from="1631780628654" duration="3672000" />
+      <workItem from="1631784467961" duration="2461000" />
+      <workItem from="1631787863170" duration="15005000" />
+      <workItem from="1631813228682" duration="457000" />
+      <workItem from="1631813783732" duration="5942000" />
+      <workItem from="1632119526930" duration="1001000" />
+      <workItem from="1632274151412" duration="24377000" />
+      <workItem from="1632368915459" duration="3203000" />
+      <workItem from="1632372243803" duration="2205000" />
+      <workItem from="1632374546200" duration="3370000" />
+      <workItem from="1632383217247" duration="68873000" />
+      <workItem from="1664808050986" duration="918000" />
+      <workItem from="1664809436017" duration="784000" />
+      <workItem from="1664810238657" duration="5818000" />
+      <workItem from="1664892770607" duration="366000" />
+      <workItem from="1664894478940" duration="199000" />
+      <workItem from="1664940590254" duration="3704000" />
+      <workItem from="1664948285733" duration="605000" />
+      <workItem from="1664959045455" duration="3857000" />
+      <workItem from="1664974436897" duration="2675000" />
+      <workItem from="1664977139675" duration="1794000" />
+      <workItem from="1665024395259" duration="11493000" />
+      <workItem from="1665116183545" duration="12922000" />
+      <workItem from="1665146438276" duration="111000" />
+      <workItem from="1665146564844" duration="2113000" />
+      <workItem from="1665211196922" duration="3419000" />
+      <workItem from="1665288655166" duration="27475000" />
+      <workItem from="1665329469273" duration="431000" />
+      <workItem from="1665382579331" duration="16892000" />
+      <workItem from="1665418789832" duration="793000" />
+      <workItem from="1665471213957" duration="6585000" />
+      <workItem from="1665548689412" duration="8614000" />
+      <workItem from="1665585560198" duration="666000" />
+      <workItem from="1665639226906" duration="22114000" />
+      <workItem from="1665718505782" duration="13560000" />
+      <workItem from="1665825929043" duration="1266000" />
+      <workItem from="1665893993684" duration="350000" />
+      <workItem from="1665904183593" duration="894000" />
+      <workItem from="1666014032180" duration="941000" />
+      <workItem from="1666103423174" duration="390000" />
+      <workItem from="1666366022353" duration="303000" />
+      <workItem from="1666366488529" duration="353000" />
+      <workItem from="1667490696340" duration="3000" />
+      <workItem from="1668845602594" duration="197000" />
+      <workItem from="1668847997194" duration="73000" />
+      <workItem from="1671343470054" duration="94000" />
+      <workItem from="1675424977566" duration="44200000" />
+      <workItem from="1675595206390" duration="115000" />
+      <workItem from="1675595332134" duration="265000" />
+      <workItem from="1675595608301" duration="816000" />
+      <workItem from="1675596435097" duration="231000" />
+      <workItem from="1675596675314" duration="64000" />
+      <workItem from="1675596833664" duration="468000" />
+      <workItem from="1675597313154" duration="10050000" />
+      <workItem from="1675755008671" duration="47106000" />
+      <workItem from="1675942904254" duration="144000" />
+      <workItem from="1675943058522" duration="77000" />
+      <workItem from="1675943146176" duration="210000" />
+      <workItem from="1675943413310" duration="315000" />
+      <workItem from="1675943744010" duration="39000" />
+      <workItem from="1675943817573" duration="83000" />
+      <workItem from="1675943918163" duration="80000" />
+      <workItem from="1675944016153" duration="84000" />
+      <workItem from="1675944110097" duration="21213000" />
+      <workItem from="1676094369495" duration="868000" />
+    </task>
+    <task id="LOCAL-00001" summary="message">
+      <created>1675942412360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675942412360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="message">
+      <created>1675944251246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675944251246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="message">
+      <created>1675944752874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675944752874</updated>
+    </task>
+    <task id="LOCAL-00004" summary="message">
+      <created>1675944950895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675944950895</updated>
+    </task>
+    <task id="LOCAL-00005" summary="message">
+      <created>1675945383378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675945383378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="message">
+      <created>1676024774595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676024774595</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/sms/AliyunSmsService.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/sms/AliyunSmsService.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ydl-sms-server/src/main/java/com/ydl/sms/sms/AliyunSmsService.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.ydl.sms.sms.AliyunSmsService" memberName="profile" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+version: '3.3'
+services:
+  master:
+    image: redis
+    restart: always
+    container_name: redis-master
+    network_mode: "192.168.85.201"
+    command: redis-server --port 16380 --requirepass 123456 --protected-mode no --daemonize no
+    ports:
+      - 16380:16380
+  slave1:
+    image: redis
+    restart: always
+    container_name: redis-slave-1
+    network_mode: "192.168.85.201"
+    command: redis-server --slaveof 127.0.0.1 16380 --port 16381 --requirepass 123456 --masterauth 123456 --protected-mode no --daemonize no
+    ports:
+      - 16381:16381
+  slave2:
+    image: redis
+    restart: always
+    container_name: redis-slave-2
+    network_mode: "192.168.85.201"
+    command: redis-server --slaveof 127.0.0.1 16380 --port 16382 --requirepass 123456 --masterauth 123456 --protected-mode no --daemonize no
+    ports:
+      - 16382:16382

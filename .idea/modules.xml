@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sms-backend.iml" filepath="$PROJECT_DIR$/sms-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydl-sms-api/ydl-sms-api.iml" filepath="$PROJECT_DIR$/ydl-sms-api/ydl-sms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydl-sms-entity/ydl-sms-entity.iml" filepath="$PROJECT_DIR$/ydl-sms-entity/ydl-sms-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydl-sms-manage/ydl-sms-manage.iml" filepath="$PROJECT_DIR$/ydl-sms-manage/ydl-sms-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydl-sms-sdk/ydl-sms-sdk.iml" filepath="$PROJECT_DIR$/ydl-sms-sdk/ydl-sms-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydl-sms-server/ydl-sms-server.iml" filepath="$PROJECT_DIR$/ydl-sms-server/ydl-sms-server.iml" />
+    </modules>
+  </component>
+</project>

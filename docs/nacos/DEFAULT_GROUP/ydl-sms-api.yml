@@ -1,0 +1,40 @@
+ydl:
+  mysql:
+    database: ydl_sms
+  swagger:
+    enabled: true
+    docket:
+      sms:
+        title: 短信接收服务
+        base-package: com.ydl.sms.controller
+
+authentication:
+  user:
+    header-name: token
+    expire: 43200
+    pri-key: client/pri.key
+    pub-key: client/pub.key
+server:
+  port: 8771
+
+spring:
+  cache:
+    type: REDIS
+  redis:
+    database: 1
+    host: 192.168.85.201 # Redis服务器地址
+    port: 16380 # Redis服务器连接端口
+    password: 123456
+    timeout: 10000ms
+    lettuce:
+      pool:
+        max-active: 200
+        max-idle: 20
+        min-idle: 0
+        max-wait: -1ms
+    sentinel:
+      master: mymaster
+      nodes:
+        - 192.168.85.201:26380
+        - 192.168.85.201:26381
+        - 192.168.85.201:26382

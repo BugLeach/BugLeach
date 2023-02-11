@@ -1,0 +1,65 @@
+ydl:
+  mysql:
+    ip: 42.192.181.133
+    port: 3306
+    driverClassName: com.mysql.jdbc.Driver
+    database: ydl_sms
+    username: ydlclass
+    password: TYydl888!
+  database:
+    isBlockAttack: false
+spring:
+  datasource:
+    druid:
+      username: ${ydl.mysql.username}
+      password: ${ydl.mysql.password}
+      driver-class-name: ${ydl.mysql.driverClassName}
+      url: jdbc:mysql://${ydl.mysql.ip}:${ydl.mysql.port}/${ydl.mysql.database}?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true
+      db-type: mysql
+      initialSize: 10
+      minIdle: 10
+      maxActive: 500
+      max-wait: 60000
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      validation-query: SELECT 'x'
+      test-on-borrow: false
+      test-on-return: false
+      test-while-idle: true
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      filters: stat,wall
+      filter:
+        wall:
+          enabled: true
+          config:
+            commentAllow: true
+            multiStatementAllow: true
+            noneBaseStatementAllow: true
+      web-stat-filter:
+        enabled: true
+        url-pattern: /*
+        exclusions: "*.js , *.gif ,*.jpg ,*.png ,*.css ,*.ico , /druid/*"
+        session-stat-max-count: 1000
+        profile-enable: true
+        session-stat-enable: false
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        reset-enable: true
+        login-username: ydl
+        login-password: ydl
+mybatis-plus:
+  mapper-locations:
+    - classpath*:mapper/*.xml
+  typeAliasesPackage: com.ydl.*.entity;com.sms.*.entity;com.ydl.database.mybatis.typehandler
+  global-config:
+    db-config:
+      id-type: INPUT
+      insert-strategy: NOT_NULL
+      update-strategy: NOT_NULL
+      select-strategy: NOT_EMPTY
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+    jdbc-type-for-null: 'null'

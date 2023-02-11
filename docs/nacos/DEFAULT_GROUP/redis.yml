@@ -1,0 +1,14 @@
+ydl:
+  redis:
+    ip: 192.168.85.201
+    port: 16380
+    password: 123456
+    database: 0
+spring:
+  cache:
+    type: GENERIC
+  redis:
+    host: ${ydl.redis.ip}
+    password: ${ydl.redis.password}
+    port: ${ydl.redis.port}
+    database: ${ydl.redis.database}

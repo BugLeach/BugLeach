@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ydl-sms-api" />
+        <module name="ydl-sms-server" />
+        <module name="ydl-sms-sdk" />
+        <module name="ydl-sms-entity" />
+        <module name="ydl-sms-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sms-backend" target="1.8" />
+      <module name="ydl-sms-api" target="1.8" />
+      <module name="ydl-sms-entity" target="1.8" />
+      <module name="ydl-sms-manage" target="1.8" />
+      <module name="ydl-sms-sdk" target="1.8" />
+      <module name="ydl-sms-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ydl-sms-api" options="-parameters" />
+      <module name="ydl-sms-entity" options="-parameters" />
+      <module name="ydl-sms-manage" options="-parameters" />
+      <module name="ydl-sms-sdk" options="-parameters" />
+      <module name="ydl-sms-server" options="-parameters" />
+    </option>
+  </component>
+</project>
